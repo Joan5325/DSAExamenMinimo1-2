@@ -1,0 +1,3 @@
+Joan Ginesta Villanueva
+
+El código tiene el Main y el swagger del ejemplo además del log4j propierties y el pom.xml. Hay tres archivos en la carpeta Models Calculador, que se encarga de guardar los cálculos, el Instituto que se encarga de almacenar las universidades y el Alumno que relaciona todo. Después tenemos ReversePolishNotation que se encarga de hacer la conversión y los cálculos. Luego el MathManager que hace todo lo que nps especifica el enunciado. Luego hay dos clases de transferencia que se encargan de no generar bucles además de que solo aparezca lo que queremos a la hora de probar en el swagger. El swagger también puede hacer la mayoría de cosas.`
